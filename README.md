@@ -2,7 +2,7 @@
 
 # build minimal quantum chemistry
 
-By held-out runner, with Ori.
+By Oriphim, with Ori.
 
 ## What was asked
 Build a quantum-chemistry code from scratch for H2 in STO-3G. It should compute the overlap,
